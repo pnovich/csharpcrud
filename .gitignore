@@ -1,0 +1,43 @@
+# Build artifacts
+ExampleApi/bin/
+ExampleApi/obj/
+ExampleApi/out/
+ExampleApi/**/*.dll
+ExampleApi/**/*.exe
+ExampleApi/**/*.pdb
+ExampleApi/**/*.cache
+ExampleApi/**/*.log
+
+# User-specific files
+ExampleApi/**/*.user
+ExampleApi/**/*.suo
+ExampleApi/**/*.userosscache
+ExampleApi/**/*.sln.docstates
+
+# Razor tooling and MSBuild
+ExampleApi/**/*.g.cs
+ExampleApi/**/*.g.i.cs
+ExampleApi/**/*.csproj.FileListAbsolute.txt
+ExampleApi/**/*.AssemblyInfo.cs
+ExampleApi/**/*.GeneratedMSBuildEditorConfig.editorconfig
+ExampleApi/**/*.GlobalUsings.g.cs
+
+# NuGet
+ExampleApi/**/*.nupkg
+ExampleApi/**/*.snupkg
+ExampleApi/.nuget/
+ExampleApi/artifacts/
+ExampleApi/project.lock.json
+ExampleApi/project.fragment.lock.json
+
+# IDE folders
+ExampleApi/.vscode/
+ExampleApi/.idea/
+
+# Misc
+ExampleApi/wwwroot/
+ExampleApi/node_modules/
+ExampleApi/dist/
+ExampleApi/bower_components/
+ExampleApi/Thumbs.db
+ExampleApi/.DS_Store
